@@ -5,7 +5,7 @@
 
 ---
 
-### 👋 ¡Hola! Soy Patricio Carpio
+### 👋 ¡Hola! Soy Patri
 
 **Full Stack Developer** — construyo software de punta a punta: backend, infraestructura y producto.
 Me obsesiona que las cosas funcionen de verdad: código sólido, despliegues prolijos y detalles que se notan.
@@ -18,6 +18,6 @@ Me obsesiona que las cosas funcionen de verdad: código sólido, despliegues pro
 
 ### 🤝 Hablemos
 
-¿Tenés una idea dando vueltas o un proyecto entre manos? Escribime, me encanta sumarme.
+¿Tenés una idea dando vueltas o un proyecto entre manos? Escribime.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pa7r1.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pa7r1.github.io/PORFOLIO) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricio-valentin-carpio-6a602327b/) [![Email](https://img.shields.io/badge/Email-Escribime-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valentincarpio32@gmail.com)
