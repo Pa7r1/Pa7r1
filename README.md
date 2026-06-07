@@ -10,7 +10,7 @@
 **Full Stack Developer** — construyo software de punta a punta: backend, infraestructura y producto.
 Me obsesiona que las cosas funcionen de verdad: código sólido, despliegues prolijos y detalles que se notan.
 
-📍 La Rioja, Argentina · 🌎 Trabajo 100% remoto · ☕ Siempre con ganas de un buen proyecto nuevo
+📍 La Rioja, Argentina · Trabajo 100% remoto · Siempre con ganas de un buen proyecto nuevo
 
 ### 🛠️ Stack
 
