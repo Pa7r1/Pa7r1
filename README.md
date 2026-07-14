@@ -1,6 +1,6 @@
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pa7r1/Pa7r1/output/snake.svg" />
-<img alt="snake" src="https://raw.githubusercontent.com/Pa7r1/Pa7r1/output/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pa7r1/Pa7r1/main/snake-github.svg" />
+    <img alt="snake eating GITHUB" src="https://raw.githubusercontent.com/Pa7r1/Pa7r1/main/snake-github.svg" />
 </picture>
 
 ---
