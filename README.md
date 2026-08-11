@@ -8,7 +8,7 @@
 ### 👋 ¡Hola! Soy Patri
 
 **Full Stack Developer** — construyo software de punta a punta: backend, infraestructura y producto.
-Me obsesiona que las cosas funcionen de verdad: código sólido, despliegues prolijos y detalles que se notan.
+Me obsesiona que las cosas funcionen de verdad.
 
 📍 La Rioja, Argentina · Trabajo 100% remoto · Siempre con ganas de un buen proyecto nuevo
 
