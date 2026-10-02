@@ -33,15 +33,7 @@
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,nginx,linux&theme=dark" />
 
-</div>
 
-### 📊 Actividad
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Pa7r1&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-
-</div>
 
 ---
 
