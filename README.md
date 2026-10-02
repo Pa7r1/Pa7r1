@@ -5,7 +5,6 @@
 <p>
   <img src="https://img.shields.io/badge/📍_La_Rioja,_Argentina-1f2937?style=flat-square" />
   <img src="https://img.shields.io/badge/💻_100%25_Remoto-1f2937?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=Pa7r1&style=flat-square&color=58A6FF&label=Visitas" />
 </p>
 
 </div>
