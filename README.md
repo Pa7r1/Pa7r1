@@ -1,45 +1,12 @@
-<div align="center">
+### Hola, soy Patricio 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Patri+%F0%9F%91%8B;Full+Stack+Developer" alt="Typing SVG" />
+Full Stack Developer con foco en TypeScript e IA aplicada. Construyo aplicaciones web de punta a punta.
 
-<p>
-  <img src="https://img.shields.io/badge/📍_La_Rioja,_Argentina-1f2937?style=flat-square" />
-  <img src="https://img.shields.io/badge/💻_100%25_Remoto-1f2937?style=flat-square" />
-</p>
-
-</div>
-
----
-
-### 🚀 Sobre mí
-
-- 🧩 Construyo software **de punta a punta**: backend, infraestructura y producto.
-- ⚙️ Me obsesiona que las cosas **funcionen de verdad**.
-- 🌱 Siempre con ganas de un buen proyecto nuevo.
-
-### 🛠️ Stack
-
-<div align="center">
-
-**Lenguajes y Backend**
-
-<img src="https://skillicons.dev/icons?i=ts,py,nodejs,fastapi&theme=dark" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,svelte&theme=dark" />
-
-**Bases de datos e Infraestructura**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,nginx,linux&theme=dark" />
+📍 La Rioja, Argentina &nbsp;·&nbsp; 💻 100% remoto &nbsp;·&nbsp; 🟢 Disponible &nbsp;·&nbsp; [Portfolio](https://pa7r1.github.io/PORFOLIO) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/patricio-valentin-carpio)
 
 
+#### Stack
 
----
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,py,fastapi,postgres,mysql,prisma,supabase,docker,githubactions,vercel&theme=dark&perline=7" alt="TypeScript, React, Next.js, Node.js, Express, Python, FastAPI, PostgreSQL, MySQL, Prisma, Supabase, Docker, GitHub Actions, Vercel" />
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pa7r1/Pa7r1/main/snake-github.svg" />
-  <img alt="snake eating GITHUB" src="https://raw.githubusercontent.com/Pa7r1/Pa7r1/main/snake-github.svg" />
-</picture>
-</div>
+<sub>Testing con Vitest, Playwright y pytest &nbsp;·&nbsp; LLMs (Gemini, Anthropic, OpenAI)</sub>
