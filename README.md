@@ -1,4 +1,4 @@
-### Hola, soy Patricio 👋
+### Hola, soy Patri 👋
 
 Full Stack Developer con foco en TypeScript e IA aplicada. Construyo aplicaciones web de punta a punta.
 
