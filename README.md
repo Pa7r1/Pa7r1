@@ -2,7 +2,7 @@
 
 Full Stack Developer con foco en TypeScript e IA aplicada. Construyo aplicaciones web de punta a punta.
 
-📍 La Rioja, Argentina &nbsp;·&nbsp; 💻 100% remoto &nbsp;·&nbsp; 🟢 Disponible &nbsp;·&nbsp; [Portfolio](https://pa7r1.github.io/PORFOLIO) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/patricio-valentin-carpio)
+📍 La Rioja, Argentina &nbsp;·&nbsp; 💻 100% remoto &nbsp;·&nbsp; 🟢 Disponible &nbsp;·&nbsp; [Portafolio](https://pa7r1.github.io/PORTAFOLIO) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/patricio-valentin-carpio)
 
 
 #### Stack
