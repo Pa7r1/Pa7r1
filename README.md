@@ -1,5 +1,5 @@
 ```python
-class Patricio:
+class Pa7r1:
     rol   = "Backend Developer Jr"
     base  = "La Rioja, AR · remoto"
     habla = ["Python", "SQL", "TypeScript"]
