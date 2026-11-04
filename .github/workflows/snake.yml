@@ -22,6 +22,7 @@ jobs:
 
       - name: Fondo negro en la version oscura
         run: |
+          sudo chown -R "$(id -u):$(id -g)" dist
           python3 - <<'EOF'
           import re
           p = "dist/snake-dark.svg"
