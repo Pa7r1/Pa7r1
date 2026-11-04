@@ -18,7 +18,20 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg
-            dist/snake-dark.gif?palette=github-dark&color_background=#0d1117
+            dist/snake-dark.svg?color_snake=#39d353&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353&color_dot_border=#1b1f230a
+
+      - name: Fondo negro en la version oscura
+        run: |
+          python3 - <<'EOF'
+          import re
+          p = "dist/snake-dark.svg"
+          s = open(p).read()
+          x, y, w, h = re.search(r'viewBox="([^"]+)"', s).group(1).split()
+          rect = f'<rect x="{x}" y="{y}" width="{w}" height="{h}" fill="#000000"/>'
+          s = s.replace("</desc>", "</desc>" + rect, 1)
+          open(p, "w").write(s)
+          EOF
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
