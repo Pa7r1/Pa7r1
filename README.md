@@ -1,16 +1,16 @@
 ```python
 class Patricio:
-    rol    = "Backend Developer Jr"
-    base   = "La Rioja, AR · remoto"
-    habla  = ["Python", "SQL", "TypeScript"]
-    cree   = "lo que le corresponde a la base, lo resuelve la base"
+    rol   = "Backend Developer Jr"
+    base  = "La Rioja, AR · remoto"
+    habla = ["Python", "SQL", "TypeScript"]
+    cree  = "El código es el medio; resolver el problema es el fin."
 
     def ahora(self):
-        return ""
-```
+        return "Abierto a nuevas oportunidades"
 
+```
 Mi trabajo está en [mi portafolio](https://pa7r1.github.io/PORTAFOLIO) y en
-[LinkedIn](https://linkedin.com/in/patricio-valentin-carpio). Lo que ves acá abajo es el código.
+[LinkedIn](https://linkedin.com/in/patricio-valentin-carpio).
 
 <picture>
   <img src="https://raw.githubusercontent.com/Pa7r1/Pa7r1/output/snake-dark.svg" alt="Contribuciones de Patricio Carpio" width="100%" />
